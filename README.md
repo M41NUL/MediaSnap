@@ -156,8 +156,6 @@ Copyright (c) 2026 MAINUL - X  ·  Md. Mainul Islam
 
 ### Md. Mainul Islam
 
-*Developer &nbsp;·&nbsp; Bot Engineer &nbsp;·&nbsp; Open Source*
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-M41NUL-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M41NUL)
